@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"sample"},{"l":"sample.admin"},{"l":"sample.authorization"},{"l":"sample.buy"},{"l":"sample.cost"},{"l":"sample.enter"},{"l":"sample.repotr"}]
